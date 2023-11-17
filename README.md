@@ -1,1 +1,11 @@
 # UIII-act-2-CRUD-V2
+(![image](https://github.com/jctorres10/UIII-act-2-CRUD-V2/assets/143548160/b43fce86-16c6-45ac-830b-a1a0413f319e)
+)
+(![image](https://github.com/jctorres10/UIII-act-2-CRUD-V2/assets/143548160/79135903-088d-4c94-b290-26ee5dcd23a9)
+)
+(![image](https://github.com/jctorres10/UIII-act-2-CRUD-V2/assets/143548160/5164b9e6-233a-478f-8acc-bf9b73ac39e3)
+)
+(![image](https://github.com/jctorres10/UIII-act-2-CRUD-V2/assets/143548160/2f301c4c-6299-4de6-959c-02a03fab8500)
+)
+(![image](https://github.com/jctorres10/UIII-act-2-CRUD-V2/assets/143548160/5763b57c-619d-47c5-8e21-afa0df58f5b0)
+)
